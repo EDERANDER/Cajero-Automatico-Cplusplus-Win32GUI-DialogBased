@@ -16,6 +16,19 @@ git clone https://github.com/EDERANDER/Cajero-Automatico-Cplusplus-Win32GUI-Dial
 ### Descargar el repositorio directamente aquí:
 Ejecutarlo en su **Codeblocks**.
 
+# Información de Usuarios y Clientes VIP
+
+A continuación se muestra la información de los usuarios y clientes VIP:
+
+| **Nombre**          | **Número de Tarjeta** | **Contraseña** |
+|---------------------|-----------------------|----------------|
+| **Juan Perez**      | 1234567890            | 1234           |
+| **Maria Lopez**     | 0987654321            | 5678           |
+| **Carlos Sanchez**  | 1122334455            | 4321           |
+| **Ana Montes**      | 2233445566            | 5678           |
+| **Luis Ramirez**    | 3344556677            | 8765           |
+| **Marta Diaz**      | 4455667788            | 1234           |
+| **Pedro Fernandez** | 5566778899            | 6789           |
 
 ## 1. Pilares de la Programación Orientada a Objetos (POO)
 
