@@ -32,6 +32,12 @@ A continuación se muestra la información de los usuarios y clientes VIP:
 
 ![Cajero automatico inicio sesion](imagen.jpeg)
 
+# Enlaces a mis perfiles
+
+- [Visita mi perfil de LinkedIn](https://www.linkedin.com/in/eder-ander-bravo-531377271/)
+- [Visita mi perfil de GitHub](https://github.com/EDERANDER)
+
+
 
 ## 1. Pilares de la Programación Orientada a Objetos (POO)
 
