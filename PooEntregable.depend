@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1734611290 source:c:\users\maycol\documents\codigos_programacion\pooentregable\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<string>
+	<sstream>
+	"resource.h"
+
+1734607090 c:\users\maycol\documents\codigos_programacion\pooentregable\resource.h
+
+1734609744 source:c:\users\maycol\documents\codigos_programacion\pooentregable\resource.rc
+	<windows.h>
+	"resource.h"
+
