@@ -30,6 +30,9 @@ A continuación se muestra la información de los usuarios y clientes VIP:
 | **Marta Diaz**      | 4455667788            | 1234           |
 | **Pedro Fernandez** | 5566778899            | 6789           |
 
+![Cajero automatico inicio sesion](imagen.jpeg)
+
+
 ## 1. Pilares de la Programación Orientada a Objetos (POO)
 
 ### **Abstracción**
