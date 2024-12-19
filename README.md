@@ -3,6 +3,19 @@
 Este documento describe los pilares de la Programación Orientada a Objetos (POO) implementados, el uso de punteros, y otros aspectos relevantes del desarrollo del cajero automático con interfaz gráfica.
 
 ---
+## PARA EJECUTAR EL PROYECTO USTED PUEDE:
+
+### Clonar el proyecto:
+```bash
+git clone https://github.com/EDERANDER/Cajero-Automatico-Cplusplus-Win32GUI-DialogBased.git
+```
+
+### Descargar el ejecutable:
+**PooEntregable.exe**
+
+### Descargar el repositorio directamente aquí:
+Ejecutarlo en su **Codeblocks**.
+
 
 ## 1. Pilares de la Programación Orientada a Objetos (POO)
 
