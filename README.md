@@ -11,7 +11,7 @@ git clone https://github.com/EDERANDER/Cajero-Automatico-Cplusplus-Win32GUI-Dial
 ```
 
 ### Descargar el ejecutable:
-**PooEntregable.exe**
+**Ejecutable.exe**
 
 ### Descargar el repositorio directamente aquí:
 Ejecutarlo en su **Codeblocks**.
